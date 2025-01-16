@@ -1,3 +1,3 @@
 # Tester
 
-Free Trial.
+Free Trial!
